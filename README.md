@@ -21,11 +21,11 @@ CampusOlx is a client-side application for an online buying and selling platform
 **Installation:**
 1. Clone the repository to your local machine using the following command:
    ```
-   git clone https://github.com/Anugrah0515/Buysell_client.git
+   git clone https://github.com/Anugrah0515/CampusOlx.git
    ```
 2. Navigate to the cloned directory:
    ```
-   cd Buysell_client
+   cd CampusOlx
    ```
 
 **Usage:**
