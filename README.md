@@ -1,7 +1,7 @@
 **Repository Name:** CampusOlx
 
 **Description:**
-Buysell_client is a client-side application for an online buying and selling platform extremely useful for colleges and universities. This repository contains the frontend codebase developed using modern web technologies. It serves as the interface through which sellers can contact the buyers.
+CampusOlx is a client-side application for an online buying and selling platform extremely useful for colleges and universities. This repository contains the frontend codebase developed using modern web technologies. It serves as the interface through which sellers can contact the buyers.
 
 **Web technologies used**
 1. Complete **MERN** is used in the project.
