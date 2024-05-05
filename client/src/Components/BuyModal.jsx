@@ -45,7 +45,7 @@ const BuyModal = ({ setToggle, offer, setOffer, setUserVerification }) => {
                                     <textarea type="text" name="message" value={offer.message} onChange={handleChange} className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-600 dark:border-gray-500 dark:placeholder-gray-400 dark:text-white" placeholder="name@company.com" required />
                                 </div>
                                 <div>
-                                    <label className="block mb-2 text-sm font-medium text-gray-900 dark:text-white">Your password</label>
+                                    <label className="block mb-2 text-sm font-medium text-gray-900 dark:text-white">Your Contact Number</label>
                                     <input type="text" name="contactNum" value={offer.contactNum} onChange={handleChange} placeholder="Enter a valid phone number" className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-600 dark:border-gray-500 dark:placeholder-gray-400 dark:text-white" required />
                                 </div>
                         </div>

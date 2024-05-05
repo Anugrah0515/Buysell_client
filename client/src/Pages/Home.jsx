@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react"
+import React, { useEffect } from "react"
 import { Navbar } from "../Components/Navbar"
 import { ProductCard } from "../Components/ProductCard";
 import noProducts from "../Assets/product-not-found.jpg"
