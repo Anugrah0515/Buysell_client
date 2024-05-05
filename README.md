@@ -29,7 +29,7 @@ CampusOlx is a client-side application for an online buying and selling platform
    ```
 
 **Usage:**
-1. After cloning, you have to tun the frontend and backend seprately.
+1. After cloning, you have to run the frontend and backend seprately.
 2. To start the frontend, cd client and then run the command npm start. The frontend is running.
 3. Create a .env file in the server folder which should of the following format-
    PORT = 5000
